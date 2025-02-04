@@ -3,7 +3,7 @@ const scanner = require('prompt-sync')()
 function main() {
     const size = parseInt(scanner('Enter size to be computed: '))
     const numbers = []
-
+    
     for(let i = 0; i < size; i++) {
         const num = parseFloat(scanner(`Enter numbers ${i+1}: `))
         numbers.push(num)
