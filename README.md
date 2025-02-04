@@ -1,1 +1,1 @@
-this is a simple calculator using traditional javascrip function and arrays 
+this is a simple calculator using traditional javascript function and arrays 
